@@ -1,2 +1,2 @@
-# crosscloudci-artwork
-Cross-Cloud CI related logos and artworks
+# cncfci-artwork
+CNCF.CI related logos and artworks
